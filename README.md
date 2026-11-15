@@ -99,8 +99,9 @@ Languages: Spanish (native), English (C1).
 ### Contact
 
 <p align="left">
+  <a href="https://alex-calva.github.io">Portfolio</a> •
   <a href="https://www.linkedin.com/in/alex-calva">LinkedIn</a> •
-  <a href="https://github.com/Alex-Calva">GitHub</a>
+  <a href="mailto:calvaalex942@gmail.com">Email</a>
 </p>
 
 <p align="left">Open to internships and junior roles in software development, data analytics and AI.</p>
