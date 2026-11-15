@@ -73,11 +73,11 @@ Full stack platform used to run a six-category robotics tournament at ITSOEH: te
 `React` • `Node.js` • `Express` • `PostgreSQL` • `Tailwind CSS` • `Render`
 
 #### [Ordify](https://github.com/Alex-Calva/ordify)
-Restaurant management system with PIN-based roles for admins, waiters, chefs and baristas, table and order management, and separate order queues for the kitchen and the bar.
+Restaurant management system with PIN-based roles for admins, waiters, chefs and baristas, table and order management, and separate order queues for the kitchen and the bar. [Live demo](https://alex-calva-ordify.streamlit.app)
 `Python` • `Streamlit` • `Domain Modeling`
 
 #### [Virtual Museum](https://github.com/Alex-Calva/museo-virtual)
-Interactive museum about the work of painter Bayron Gálvez, with animated paintings, themed rooms, filters and a final quiz. [Live demo](https://al3xcalva-pasillo--museo-virtual-refactorappmuseovirtual-takqcc.streamlit.app)
+Interactive museum about the work of painter Bayron Gálvez, with animated paintings, themed rooms, filters and a final quiz. [Live demo](https://alex-calva-museo-virtual.streamlit.app)
 `Python` • `Streamlit` • `Cultural Technology`
 
 ---
