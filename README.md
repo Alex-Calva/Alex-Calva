@@ -80,10 +80,6 @@ Restaurant management system with PIN-based roles for admins, waiters, chefs and
 Interactive museum about the work of painter Bayron Gálvez, with animated paintings, themed rooms, filters and a final quiz. [Live demo](https://al3xcalva-pasillo--museo-virtual-refactorappmuseovirtual-takqcc.streamlit.app)
 `Python` • `Streamlit` • `Cultural Technology`
 
-#### [Miauhaus](https://github.com/Alex-Calva/Miauhouse)
-Responsive website for a pet care service, built without frameworks and published on GitHub Pages. [Live site](https://alex-calva.github.io/Miauhouse/)
-`HTML` • `CSS` • `JavaScript`
-
 ---
 
 ### Education
