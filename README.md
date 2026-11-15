@@ -48,6 +48,7 @@ Full stack developer turned data analyst, building software professionally since
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
+| [**TERA 2026**](https://github.com/Alex-Calva/tera) | Sistema para operar un torneo de robótica: registro e importación desde Excel, validación de pagos, roles, llaves por rondas sin enfrentamientos repetidos y resultados en vivo. | React · Node.js · Express · PostgreSQL |
 | [**Ordify**](https://github.com/Alex-Calva/ordify) | Sistema de gestión para restaurantes: acceso por PIN y roles, mesas, pedidos por estación (cocina/barra), inventario y cuentas. | Python · Streamlit |
 | [**Museo Virtual**](https://github.com/Alex-Calva/museo-virtual) | Museo interactivo con obras animadas en video, filtros por sala/tema y cuestionario. | Python · Streamlit |
 | [**Generador de Constancias — Club IoT**](https://github.com/Alex-Calva/Generador-de-Constancias-y-Formatos-de-Evaluaci-n-Club-IOT) | Lee un Excel de alumnos y genera constancias y evaluaciones en Word, descargables en ZIP. | Python · Flask · python-docx |
